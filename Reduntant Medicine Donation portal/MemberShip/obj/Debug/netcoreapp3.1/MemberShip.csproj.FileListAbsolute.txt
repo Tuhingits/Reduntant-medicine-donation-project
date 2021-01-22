@@ -1,0 +1,15 @@
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\MemberShip.deps.json
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\MemberShip.runtimeconfig.json
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\MemberShip.runtimeconfig.dev.json
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\MemberShip.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\MemberShip.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.csprojAssemblyReference.cache
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.AssemblyInfoInputs.cache
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.AssemblyInfo.cs
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.csproj.CoreCompileInputs.cache
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.csproj.CopyComplete
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\MemberShip\obj\Debug\netcoreapp3.1\MemberShip.genruntimeconfig.cache

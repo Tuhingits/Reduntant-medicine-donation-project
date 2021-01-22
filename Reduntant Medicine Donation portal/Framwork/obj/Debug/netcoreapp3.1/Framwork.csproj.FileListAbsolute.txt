@@ -1,0 +1,17 @@
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.deps.json
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.runtimeconfig.json
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.runtimeconfig.dev.json
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\MemberShip.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\MemberShip.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csprojAssemblyReference.cache
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.AssemblyInfoInputs.cache
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.AssemblyInfo.cs
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csproj.CoreCompileInputs.cache
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csproj.CopyComplete
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.dll
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.pdb
+C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.genruntimeconfig.cache
