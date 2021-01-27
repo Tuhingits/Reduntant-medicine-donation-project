@@ -7,6 +7,7 @@ namespace Framework
     public class MenuItem
     {
         public string Title { get; set; }
-        public IList<MenuChildItem> Childs { get; set; }
+        public string Url { get; set; }
+        public string Active { get; set; }
     }
 }

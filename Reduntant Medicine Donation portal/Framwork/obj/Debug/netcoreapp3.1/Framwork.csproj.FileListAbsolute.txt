@@ -15,3 +15,37 @@ C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.dll
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.pdb
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.genruntimeconfig.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csprojAssemblyReference.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.AssemblyInfoInputs.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.AssemblyInfo.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csproj.CoreCompileInputs.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.deps.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.runtimeconfig.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.runtimeconfig.dev.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\MemberShip.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\MemberShip.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csproj.CopyComplete
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.genruntimeconfig.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.deps.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.runtimeconfig.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.runtimeconfig.dev.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Framwork.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Data.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\MemberShip.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\bin\Debug\netcoreapp3.1\MemberShip.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csprojAssemblyReference.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.AssemblyInfoInputs.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.AssemblyInfo.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csproj.CoreCompileInputs.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.csproj.CopyComplete
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Framwork\obj\Debug\netcoreapp3.1\Framwork.genruntimeconfig.cache

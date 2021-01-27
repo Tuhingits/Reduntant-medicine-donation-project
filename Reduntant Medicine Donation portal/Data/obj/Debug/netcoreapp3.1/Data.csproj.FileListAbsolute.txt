@@ -7,3 +7,19 @@ C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Data\obj\Deb
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.pdb
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\Data\obj\Debug\netcoreapp3.1\Data.pdb

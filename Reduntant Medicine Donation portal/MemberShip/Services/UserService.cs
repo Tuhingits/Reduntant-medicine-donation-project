@@ -139,7 +139,7 @@ namespace MemberShip.Services
 
                     return user.Id;
                 }
-                catch (Exception ex)
+                catch (Exception Ex)
                 {
                     scope.Dispose();
                     throw;

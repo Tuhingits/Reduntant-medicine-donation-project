@@ -6,6 +6,5 @@ namespace Framwork.Service
 {
     public interface IMedicineService : IDisposable
     {
-        (Ilist<Medicine>)
     }
 }

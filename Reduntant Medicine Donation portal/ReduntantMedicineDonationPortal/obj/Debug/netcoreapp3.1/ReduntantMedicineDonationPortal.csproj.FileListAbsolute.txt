@@ -408,3 +408,497 @@ C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\ReduntantMed
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.dll
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.pdb
 C:\Users\hi tech bd\source\repos\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.genruntimeconfig.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.csprojAssemblyReference.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.AssemblyInfoInputs.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.AssemblyInfo.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.csproj.CoreCompileInputs.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorAssemblyInfo.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorAssemblyInfo.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.StaticWebAssets.xml
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.exe
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.deps.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.runtimeconfig.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.runtimeconfig.dev.json
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.Views.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.Views.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Framwork.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\MemberShip.dll
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Framwork.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\MemberShip.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\staticwebassets\ReduntantMedicineDonationPortal.StaticWebAssets.Manifest.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\staticwebassets\ReduntantMedicineDonationPortal.StaticWebAssets.xml
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReduntantMedicineDonationPortal.styles.css
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.TagHelpers.input.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.TagHelpers.output.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorCoreGenerate.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderBarPartial.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainPage.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorTargetAssemblyInfo.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.Views.pdb
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.csproj.CopyComplete
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.genruntimeconfig.cache
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Tuhin\Desktop\New folder\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Registration\Registration.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.csprojAssemblyReference.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.AssemblyInfoInputs.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.AssemblyInfo.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.csproj.CoreCompileInputs.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.MvcApplicationPartsAssemblyInfo.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorAssemblyInfo.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorAssemblyInfo.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\staticwebassets\ReduntantMedicineDonationPortal.StaticWebAssets.Manifest.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\staticwebassets\ReduntantMedicineDonationPortal.StaticWebAssets.xml
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReduntantMedicineDonationPortal.styles.css
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.TagHelpers.input.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.TagHelpers.output.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorCoreGenerate.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\Login\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\Register\Registration.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\Shared\Error.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\Shared\_identityLayout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\Shared\_identityPartial.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identities\Views\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Registration\Registration.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderBarPartial.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainPage.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorTargetAssemblyInfo.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.RazorTargetAssemblyInfo.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.StaticWebAssets.xml
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.exe
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.deps.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.runtimeconfig.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.runtimeconfig.dev.json
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.Views.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.Views.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Data.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Framwork.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\MemberShip.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Framwork.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\MemberShip.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.Views.pdb
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.csproj.CopyComplete
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\ReduntantMedicineDonationPortal.genruntimeconfig.cache
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Check Assign.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Feedback.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SideBar.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ActionMessage.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LeftMenu.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Donor\Donate.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Donor\DonatingHistory.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Donor\Feedback.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Organizer\All Medicine.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Organizer\Check Donating Medicine.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Organizer\Feedback.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\DonateMedicines\Create.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\DonateMedicines\Delete.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\DonateMedicines\Details.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\DonateMedicines\Edit.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\DonateMedicines\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Feedbacks\Create.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Feedbacks\Delete.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Feedbacks\Details.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Feedbacks\Edit.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Feedbacks\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\AllDonatedMedicines\Create.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\AllDonatedMedicines\Delete.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\AllDonatedMedicines\Details.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\AllDonatedMedicines\Edit.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\AllDonatedMedicines\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Transactions\Create.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Transactions\Delete.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Transactions\Details.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Transactions\Edit.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Views\Transactions\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Donor\Views\Shared\_ActionMessage.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Donor\Views\Shared\_DonorLayout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Donor\Views\Shared\_LeftMenu.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Donor\Views\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Donor\Views\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Donor\Views\DonorDashBoard\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Organizer\Views\Shared\_ActionMessage.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Organizer\Views\Shared\_LeftMenu.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Organizer\Views\Shared\_OrganizerLayout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Organizer\Views\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Organizer\Views\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Executive\Views\Shared\_ActionMessage.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Executive\Views\Shared\_ExecutiveLayout.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Executive\Views\Shared\_LeftMenu.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Executive\Views\_ViewImports.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Executive\Views\_ViewStart.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Organizer\Views\OrganizerDashBoard\Index.cshtml.g.cs
+D:\Reduntant-medicine-donation-project\Reduntant Medicine Donation portal\ReduntantMedicineDonationPortal\obj\Debug\netcoreapp3.1\Razor\Areas\Executive\Views\ExecutiveDashBoard\Index.cshtml.g.cs

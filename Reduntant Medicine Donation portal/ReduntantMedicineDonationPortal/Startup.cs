@@ -19,6 +19,7 @@ using MemberShip.Services;
 using Blog.Framework;
 using Framework;
 using MemberShip.Context;
+using Reduntant_Medicine_Donation_portal.Data;
 
 namespace Reduntant_Medicine_Donation_portal
 {
@@ -45,7 +46,7 @@ namespace Reduntant_Medicine_Donation_portal
             var migrationAssemblyName = typeof(Startup).Assembly.FullName;
 
             builder.RegisterModule(new FrameworkModule(connectionString, migrationAssemblyName));
-           // builder.RegisterModule(new WebModule(connectionString, migrationAssemblyName));
+            // builder.RegisterModule(new WebModule(connectionString, migrationAssemblyName));
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -55,8 +56,12 @@ namespace Reduntant_Medicine_Donation_portal
             var connectionString = Configuration.GetConnectionString(connectionStringName);
             var migrationAssemblyName = typeof(Startup).Assembly.FullName;
 
+            services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(
+                    Configuration.GetConnectionString("DefaultConnection")));
+
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(connectionString, b => b.MigrationsAssembly(migrationAssemblyName)));
+              options.UseSqlServer(connectionString, b => b.MigrationsAssembly(migrationAssemblyName)));
 
             services.AddDbContext<FrameworkContext>(options =>
                options.UseSqlServer(connectionString, b => b.MigrationsAssembly(migrationAssemblyName)));
@@ -89,7 +94,8 @@ namespace Reduntant_Medicine_Donation_portal
                 options.User.RequireUniqueEmail = false;
             });
 
-            services.ConfigureApplicationCookie(options => {
+            services.ConfigureApplicationCookie(options =>
+            {
                 options.LoginPath = "/Identities/Login/Index";
             });
 
@@ -106,7 +112,6 @@ namespace Reduntant_Medicine_Donation_portal
             services.AddOptions();
 
         }
-
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
             AccountSeed accountSeed)
@@ -136,15 +141,14 @@ namespace Reduntant_Medicine_Donation_portal
                 endpoints.MapControllerRoute(
                     name: "areas",
                     pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
-
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
-            });
 
-            accountSeed.MigrateAsync().Wait();
-            accountSeed.SeedAsync().Wait();
+                accountSeed.MigrateAsync().Wait();
+                accountSeed.SeedAsync().Wait();
+            });
         }
     }
 }

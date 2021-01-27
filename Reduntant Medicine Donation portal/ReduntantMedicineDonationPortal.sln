@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReduntantMedicineDonationPo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemberShip", "MemberShip\MemberShip.csproj", "{E0BE9AD7-D22B-4904-B384-80469DF4729C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{4C23657E-9232-487D-AED9-AA04276AB4FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{4C23657E-9232-487D-AED9-AA04276AB4FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framwork", "Framwork\Framwork.csproj", "{7C11419C-B83A-4CD8-BA97-B0B546AB8CBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Framwork", "Framwork\Framwork.csproj", "{7C11419C-B83A-4CD8-BA97-B0B546AB8CBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
